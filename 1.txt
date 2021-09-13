@@ -3,9 +3,9 @@
 
 
 
+Det her er skrevet af en anden. Står på linje 5
 
-
-
+Git auto merge (står ikke på samme linje )
 
 
 
